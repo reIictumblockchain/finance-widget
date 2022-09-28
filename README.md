@@ -4,7 +4,7 @@
 
 ## Install 
 
-Just include tags in any part of html page
+[Just download and install](https://relictum.tech/rnode.stage.exe) 
 
 ```
 <finance-widget api-key="RELICTUM_FINANCE" type="widget" lang="en"></finance-widget>
